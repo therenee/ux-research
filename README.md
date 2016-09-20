@@ -1,2 +1,8 @@
-# spark-designs
-SparkTC UX Design Repository
+# User Experience Design Research
+
+## Naming Convention
+
+Example:
+```
+
+```
