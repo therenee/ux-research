@@ -22,4 +22,3 @@ Example:
 * Mangoes
 * Madelines
 * Candy
-* Stuff
