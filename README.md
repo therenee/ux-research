@@ -6,7 +6,10 @@
 
 Example:
 ```
- (╯°□°）╯︵ ┻━┻)
+ (╯°□°）╯︵ ┻━┻) (╯°□°）╯︵ ┻━┻)
+(╯°□°）╯︵ ┻━┻) (╯°□°）╯︵ ┻━┻)
+(╯°□°）╯︵ ┻━┻) (╯°□°）╯︵ ┻━┻)
+(╯°□°）╯︵ ┻━┻) (╯°□°）╯︵ ┻━┻)
 ```
 
 ## People
@@ -22,3 +25,11 @@ Example:
 * Mangoes
 * Madelines
 * Candy
+
+## Things I Want
+
+* Food
+* Lunch
+* Free Food
+* A lot of other Stuff
+* Sleep
